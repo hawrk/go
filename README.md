@@ -1,0 +1,1 @@
+some pratice for golang
